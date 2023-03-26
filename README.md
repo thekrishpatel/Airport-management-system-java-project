@@ -5,7 +5,7 @@ this is just simple project for collage students in java language.
 1)Flight booking system<br />
 2)Flight information system<br />
 3)Airport cafe<br />
-4)Airport credit card system<br /><br />
+4)Airport credit card system<br />
 5)Hotel booking system<br />
 6)Staff details<br />
 7)Airport Bank Account<br />
