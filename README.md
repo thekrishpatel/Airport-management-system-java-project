@@ -9,5 +9,5 @@ this is just simple project for collage students in java language.
 5)Hotel booking system<br />
 6)Staff details<br />
 7)Airport Bank Account<br />
-#Platform
+# Platform
 Java Project
