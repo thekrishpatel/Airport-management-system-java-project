@@ -48,7 +48,7 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## Contact
 
-For inquiries, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+For inquiries, you can reach me at [your.email@example.com](mailto:krishpatel8071@gmail.com).
 
 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/thekrishpatel) | [Twitter](https://twitter.com/thekrishpatel1) | [GitHub](https://github.com/thekrishpatel)
 
